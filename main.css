@@ -1,0 +1,27 @@
+* {
+    color:grey;
+    padding: 0;
+}
+
+header nav ul li {
+    display: inline;
+}
+
+.container {
+    width: 1366px;
+    margin: 0 auto 0 auto;
+}
+.articles.articles {
+    display: flex;
+    height: 33%;
+}
+.articles.articles img {
+    height: 180px;
+}
+
+.articles { 
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+
